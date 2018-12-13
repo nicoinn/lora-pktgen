@@ -26,10 +26,10 @@ export PATH=$PATH:$GOBIN
 #### Get the code
 Use [`go`](https://golang.org/cmd/go/) tool to "get" (i.e. fetch and build) `lora-pktgen` package:
 ```bash
-go get github.com/mainflux/lora-pktgen
+go get github.com/nicoinn/lora-pktgen
 ```
 
-This will download the code to `$GOPATH/src/github.com/mainflux/lora-pktgen` directory,
+This will download the code to `$GOPATH/src/github.com/nicoinn/lora-pktgen` directory,
 and then compile it and install the binary in `$GOBIN` directory.
 
 Now you can run the program with:
@@ -39,17 +39,7 @@ lora-pktgen
 if `$GOBIN` is in `$PATH` (otherwise use `$GOBIN/lora-pktgen`)
 
 ### Documentation
-Development documentation can be found [here](http://mainflux.io/).
-
-### Community
-#### Mailing lists
-[mainflux](https://groups.google.com/forum/#!forum/mainflux) Google group.
-
-#### IRC
-[Mainflux Gitter](https://gitter.im/Mainflux/mainflux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-#### Twitter
-[@mainflux](https://twitter.com/mainflux)
+Development documentation can be found [Not anymore :( )] [here](http://mainflux.io/).
 
 #### Authors
 This tool is crafted by @drasko and @manuIO for the benefit of mankind.
